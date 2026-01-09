@@ -1,6 +1,6 @@
 # Welcome to ItemTraxx Co 
 
-<img src="profile/ItemTraxx_Co_Logo.jpg" alt="ItemTraxx Co Logo" width="250"/>
+<img src="https://raw.githubusercontent.com/ItemTraxxCo/.github/main/profile/ItemTraxx_Co_Logo.jpg" alt="ItemTraxx Co Logo" width="100"/>
 
 ItemTraxx Co develops **secure, cloud-based asset and equipment management solutions** for schools, businesses, and public organizations. Our mission is to provide reliable, scalable, and professional software that helps organizations track, manage, and report on their assets efficiently.
 
