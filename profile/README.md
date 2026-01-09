@@ -1,6 +1,6 @@
 # Welcome to ItemTraxx Co 
 
-![ItemTraxx Co]([https://via.placeholder.com/250x80?text=ItemTraxx+Logo](https://api.sherbert.cimpress.io/v2/assets/zAkoztf4dwbiTzGh9d6lj~200?signature=108d63b512d19d66b5be072104c35e64e8c5be8a))
+<img src="profile/ItemTraxx_Co_Logo.jpg" alt="ItemTraxx Co Logo" width="250"/>
 
 ItemTraxx Co develops **secure, cloud-based asset and equipment management solutions** for schools, businesses, and public organizations. Our mission is to provide reliable, scalable, and professional software that helps organizations track, manage, and report on their assets efficiently.
 
