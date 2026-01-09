@@ -10,7 +10,7 @@ ItemTraxx Co develops **secure, cloud-based asset and equipment management solut
 
 | Product | Description | Repository | Status |
 |---------|-------------|------------|--------|
-| **ItemTraxx** | Centralized asset and equipment management platform | [GitHub](https://github.com/ItemTraxxCo/ItemTraxx-App) | ![Repo Status](https://img.shields.io/badge/under_developement-orange) |
+| **ItemTraxx** | Centralized asset and equipment management platform | [GitHub](https://github.com/ItemTraxxCo/ItemTraxx-App) | ![Repo Status](https://img.shields.io/badge/under_developement-darkred) |
 
 ---
 
