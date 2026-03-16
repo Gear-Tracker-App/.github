@@ -1,7 +1,5 @@
-# ItemTraxx Co
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ItemTraxxCo/.github/main/profile/ItemTraxx_Co_Logo.jpg" alt="ItemTraxx Co Logo" width="120" />
+  <img src="https://raw.githubusercontent.com/ItemTraxxCo/.github/main/profile/ItemTraxx Co Main Logo-Large.png" alt="ItemTraxx Co Logo" width="550" />
 </p>
 
 <p align="center">
@@ -9,14 +7,14 @@
 </p>
 
 <p align="center">
-  ItemTraxx Co builds professional tools that help you track assets, manage item usage, and simplify accountability.
+ We build professional tools that help you track assets, manage item usage, and simplify accountability.
 </p>
 
 ---
 
 ## Overview
 
-ItemTraxx Co develops modern asset and equipment management software designed for real-world operations. Our platform helps teams stay organized with centralized inventory records, user-based access controls, transaction history, and reporting tools built for day-to-day operations.
+We develop modern asset and equipment management software designed for real-world operations. Our platform helps teams stay organized with centralized inventory records, user-based access controls, transaction history, and reporting tools built for day-to-day operations.
 
 Whether you're managing classroom devices, shared equipment, department inventory, or organizational assets, ItemTraxx is designed to provide a secure and scalable system for keeping everything visible and under control.
 
@@ -66,13 +64,13 @@ Use a secure online platform built for reliability, scalability, and professiona
 
 ## Who It’s Built For
 
-ItemTraxx is designed for organizations that need clear control over physical assets, including:
+ItemTraxx is designed for organizations, schools, and individuals that need clear control over physical assets, including:
 
 - Schools and districts
 - Businesses and internal operations teams
 - Public organizations
-- Administrative departments managing shared equipment
-- Programs that need reliable checkout and reporting workflows
+- Administrative departments managing shared equipment/items
+- Programs that need reliable inventory tracking and reporting workflows
 - Individuals looking to organize inventory
 
 ---
