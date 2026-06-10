@@ -98,4 +98,4 @@ Our mission is to provide secure, scalable, and dependable software that helps t
 ---
 
 **© 2026 ItemTraxx Co. All rights reserved.**  
-We make inventory tracking easier.
+Empowering you with secure and efficient asset management.
