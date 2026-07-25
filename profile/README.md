@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ItemTraxxCo/.github/main/profile/ItemTraxx%20Co%20Main%20Logo-Large.png" alt="ItemTraxx Co Logo" width="550" />
+  <img src="https://assets.itemtraxx.com/brand/og.png" alt="ItemTraxx Co Logo" width="1000" />
 </p>
 
 <p align="center">
